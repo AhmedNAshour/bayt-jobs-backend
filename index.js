@@ -79,7 +79,8 @@ app.get('/api/jobs', async (req, res) => {
         }
       })
     );
-
+    const currentDatetime = new Date();
+    console.log(`Request received at: ${currentDatetime}`);
     res.json(geocodedJobData);
   } catch (error) {
     console.error(error);
