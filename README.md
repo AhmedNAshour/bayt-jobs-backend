@@ -41,6 +41,6 @@ API Endpoint:
 GET /api/jobs: Retrieve a list of Bayt job data with titles and geocoded locations.
 
 -Demo Video
-[Add a link to your demo video here.]
+https://www.loom.com/share/d61da9c8f682413a9d909563dd21989c?sid=ab35f382-dffb-4808-9203-6c7ab06a1479
 
 
